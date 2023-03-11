@@ -1,4 +1,4 @@
-﻿decimal[] Numbers = new decimal[] { 5, 8, 25, 100, 31, 66, 75, 81, 55, 47 };
+﻿decimal[] Numbers = new decimal[] { 5, 8, 25, 100, 31, -54, 66, 75, 81, 55, 47 };
 
 //Je veux plusieurs fonctions : 
 //Somme du tableau
